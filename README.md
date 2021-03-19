@@ -17,4 +17,8 @@
 <p align="center">
     <img src="./callback_keypoint/回调函数知识点.png"
 
+* [小程序二维码生成服务流程图](./wxapp_getwxacodeunlimit)
+<p align="center">
+    <img src="./wxapp_getwxacodeunlimit/小程序二维码生成服务流程图.png"
+
 * watting for update..
